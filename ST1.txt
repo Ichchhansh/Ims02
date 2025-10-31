@@ -1,0 +1,30 @@
+html>
+<head>
+<title>SHOPPER’S SHOP</title>
+</head>
+<body>
+<nav>
+<a href="#home">HOME</a>
+<a href="#products">PRODUCTS</a>
+<a href="#videos">VIDEOS</a>
+<a href="#contact">CONTACT</a>
+</nav>
+<section id="home">
+<h2>WELCOME TO SHOPPER’S SHOP!</h2>
+<img src="https://xyz.com/123">
+</section>
+<section id="products">
+<h2>FEATURED PRODUCTS</h2>
+<p>Trendy clothes, gadgets and more!</p>
+<audio controls>
+<source src="https://abc.com/clth.mp3" type="audio/mpeg">
+</audio>
+</section>
+<section id="videos">
+<h2>Product review!</h2>
+<a href="https://youtube.com/12A32QKW9">WATCH ON YOUTUBE</a><br>
+<iframe width="300" height="170" src="https://www.youtube.com/embed/ysz5S6PUM-U" allowfullscreen></iframe>
+</section>
+<footer><p>© 2025 Shoppers Shop | Contact: info@shoppersshop.com</p></footer>
+</body>
+</html>
